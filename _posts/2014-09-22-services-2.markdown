@@ -1,0 +1,8 @@
+---
+layout: default
+img: pranav.png
+category: Services
+title: Pranav Yenugu <br> Co-Founder
+description: |
+---
+Pranav Yenugu is currently a 9th grader at William Mason High School, and is one of the co-founders of SafeDeliv. Pranav has the vision and ingenuity to take the business to the next level and overcome the challenges associated with being a high schooler with a startup. He loves technology and has been coding since he was 11 years old. Pranav is very driven and will push himself and his team, learning from mistakes and facing problems head on. He stays focused and pursues his goals, embracing any ideas and criticism along the way.

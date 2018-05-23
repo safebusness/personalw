@@ -1,0 +1,8 @@
+---
+layout: default
+img: juan2.png
+category: Services
+title: Juan Carlos Gaudiano <br> Co-Founder
+description: |
+---
+  Juan Carlos Gaudiano is currently in 11th grade at William Mason High School and is one of the co-founders of SafeDeliv. He is always eager to make new and exciting business connections. Juan is driven to make his new founded idea into reality and a successful business. He is always open to new ideas and taking criticism. With Juan leading the charge we are always focus and now schedule.

@@ -1,0 +1,36 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.safedeliv.com/ 
+title: SafeDeliv
+email: gaudianodelbosquej@masonohioschools.com
+author: William Mechler
+description: > 
+ SafeDeliv is a new and exciting product to make package delivery safer. 
+ We are driven to make sure that only you can get a hold of your package. 
+ We will innovate the face of package delivery to make it safer and more reliable. 
+ Safedeliv stands as a new and exciting change to a rapidly evolving market.
+
+copyright: 'Copyright &copy; 2018 William Mechler. All Rights Reserved.'
+ 
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/?lang=en 
+  - title: github
+    url: https://github.com/hackwill
+  - title: Email
+    url: mailto:gaudianodelbosquej@masonohioschools.com
